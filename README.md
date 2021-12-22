@@ -34,4 +34,4 @@ Sign your name without hashing using your private-key (d)
 Publish the signature along with your name on the designated data base on Moodle.
 B) Verification:
 
-Use your partner public-key (N, e) and his/her name to verify his/her signature
+Use your partner public-key (N, e) and his/her name to verify his/her signature.
