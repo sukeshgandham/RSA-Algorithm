@@ -24,6 +24,7 @@ B) Decryption: Decrypt the message received from your Project partner:
 Check your partner’s database and get the encrypted message.
 Using your private-key (d), decrypt the message received from your partner
 Publish the decrypted message on the designated data base on Moodle.
+
 Part 2: Signature/Verification
 Write a function to sign or verify messages using square and multiply. (you can pass to the function (N, d or e, m or sig). You can use your already selected parameters (N, e, and d)
 
